@@ -1,5 +1,5 @@
 # OS_DETECT
-
+creado por: bestiaim
 Script Bash para detectar el sistema operativo remoto utilizando distintas técnicas de fingerprinting activo y pasivo.
 
 ## 🛠️ Métodos soportados
